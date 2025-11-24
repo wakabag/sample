@@ -1,0 +1,21 @@
+cord_uid,title,abstract,publish_time,authors,journal,source_x
+uid1,Detection of SARS-CoV-2 in wastewater,"We detected viral RNA in wastewater samples using PCR.",2020-04-15,"Smith J.; Lee A.",Water Research,bioRxiv
+uid2,Clinical features of COVID-19 patients,"A retrospective study of hospitalized patients.",2020-03-20,"Garcia M.; Patel S.",Lancet,PubMed
+uid3,Vaccine development updates,"Overview of vaccine platforms and candidates.",2021-01-10,"Zhang L.; Kumar P.",Vaccine,PubMed
+uid4,Transmission dynamics in households,"Contact tracing shows secondary attack rates.",2020-05-05,"O'Neil K.; Brown R.",Epidemiology and Infection,PMC
+uid5,Diagnostic accuracy of rapid tests,"Evaluation of lateral flow devices in clinical settings.",2020-08-30,"Nguyen T.; Ross H.",Journal of Clinical Virology,PMC
+uid6,Antiviral treatments under study,"Drug repurposing screens identify candidates.",2020-06-12,"Wong S.; Rivera D.",Nature Communications,PubMed
+uid7,Impact of NPIs on spread,"Non-pharmaceutical interventions and case trends.",2020-11-01,"Chen Y.; Silva P.",Public Health,PMC
+uid8,Long COVID symptom patterns,"Follow-up study of post-acute symptoms.",2021-07-22,"Martins A.; Johnson E.",BMJ,PubMed
+uid9,Genomic epidemiology of SARS-CoV-2,"Phylogenetic analysis of sequences worldwide.",2020-09-14,"Ivanov V.; Kwon J.",Genomics,PMC
+uid10,Modeling hospital capacity,"Forecasting needs under different scenarios.",2020-04-01,"Singh R.; Lopez G.",Health Systems,arXiv
+uid11,Seroprevalence surveys methods,"Survey design and antibody test performance.",2020-10-05,"Baker N.; Osei F.",Epidemiology,PMC
+uid12,Children and COVID-19,"Clinical outcomes in pediatric populations.",2020-12-12,"Hansen L.; Park S.",Pediatrics,PubMed
+uid13,Environmental stability of virus,"Survival of virus on surfaces and aerosols.",2020-02-28,"Adams C.; Green M.",Journal of Virology,PMC
+uid14,Mental health during pandemic,"Survey of anxiety and depression prevalence.",2021-03-18,"White K.; Gomez R.",Journal of Mental Health,PubMed
+uid15,Viral load dynamics in patients,"Temporal patterns of viral shedding.",2020-03-30,"Chen H.; Rivera L.",Clinical Infectious Diseases,PubMed
+uid16,Effectiveness of masks,"Case-control studies on mask use.",2020-05-20,"Ali S.; Becker T.",Infection Control & Hospital Epidemiology,PMC
+uid17,Healthcare worker infections,"Risk factors for nosocomial transmission.",2020-07-09,"Lopez F.; Nguyen M.",Occupational Medicine,PubMed
+uid18,Comparison of PCR protocols,"Lab comparison of extraction and PCR kits.",2020-02-10,"Khan A.; O'Connor D.",Journal of Clinical Microbiology,PMC
+uid19,Population mobility and cases,"Mobility data correlates with case counts.",2020-06-22,"Petrov I.; Silva J.",Nature Human Behaviour,PubMed
+uid20,Policy responses and outcomes,"Cross-country analysis of policy timing.",2021-02-14,"Garcia M.; Singh R.",Policy & Society,arXiv
